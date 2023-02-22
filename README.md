@@ -1,4 +1,4 @@
-# 📌 Invoice
+# 📌 Invoice Management System
 Invoice Web Application Using Bootstrap AdminLTE Template
 
 # Functional Features
